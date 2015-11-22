@@ -11,7 +11,7 @@ As per requirement, You should create one R script called run_analysis.R that do
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Steps to accomplish this tasks
-# Note
+### Note
 
 You need to install and load ```reshape2``` and ```data.table``` before executing following steps. 
 
